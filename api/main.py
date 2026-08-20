@@ -33,7 +33,7 @@ app.add_middleware(
         "http://localhost:4200",
         "http://localhost:3000",
         "https://scholar-site.vercel.app",
-        "https://scholar-site-j02vo44mu-taufeeqs-projects-dbb5c752.vercel.app"
+        "https://scholar-site-b4thsdsgd-kavinpuri926-6133s-projects.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
